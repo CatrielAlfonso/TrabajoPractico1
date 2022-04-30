@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1651339417 source:c:\users\usuario\documents\proyectos\trabajopractico1\trabajopractico-c.c
+	<stdio.h>
+	<stdlib.h>
+	"TrabajoPractico-h.h"
+	"CalculosTPh.h"
+
+1651339417 c:\users\usuario\documents\proyectos\trabajopractico1\trabajopractico-h.h
+	"TrabajoPractico-h.h"
+	"CalculosTPh.h"
+
+1650168068 source:c:\users\usuario\documents\proyectos\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TrabajoPractico-h.h"
+	"CalculosTPh.h"
+
+1651339417 c:\users\usuario\documents\proyectos\trabajopractico1\calculostph.h
+	"CalculosTPh.h"
+	"TrabajoPractico-h.h"
+
+1651339417 source:c:\users\usuario\documents\proyectos\trabajopractico1\calculostpc.c
+	<stdio.h>
+	<stdlib.h>
+	"TrabajoPractico-h.h"
+	"CalculosTPh.h"
+
+1650133944 c:\users\usuario\documents\proyectos\trabajopractico1\mostrardatosh.h
+	"MostrarDatosh.h"
+	"TrabajoPractico-h.h"
+	"CalculosTPh.h"
+
+1650155459 source:c:\users\usuario\documents\proyectos\trabajopractico1\mostrardatosc.c
+	<stdio.h>
+	<stdlib.h>
+	"MostrarDatosh.h"
+	"TrabajoPractico-h.h"
+	"CalculosTPh.h"
+
