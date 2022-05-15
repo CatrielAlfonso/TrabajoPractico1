@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1652555831 source:c:\users\usuario\documents\proyectos\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayPassenger.h"
+	"menu.h"
+
+1652555602 c:\users\usuario\documents\proyectos\tp2\arraypassenger.h
+
+1652555695 source:c:\users\usuario\documents\proyectos\tp2\arraypassenger.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayPassenger.h"
+
+1652555831 c:\users\usuario\documents\proyectos\tp2\menu.h
+
+1652555831 source:c:\users\usuario\documents\proyectos\tp2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
